@@ -2,9 +2,9 @@
 
 ### I'm a Software Engineer who takes pride in developing applications that are not only functional, but also visually appealing and user-friendly.
 
-### I’m passionate about sustainability, mental health awareness, minority representation, and, of course, coding! Currently, I’m seeking a Junior Software Developer role. If you know of any opportunities or want to hire me, I would be thrilled to [hear](mailto:sheyla@sheyladelossantos.net) from you! 
+### I’m passionate about nature, sustainability, mental health awareness, minority representation, and, of course, coding! Currently, I’m seeking a Junior Software Developer role. If you know of any opportunities or want to hire me, I would be thrilled to [hear](mailto:sheyla@sheyladelossantos.net) from you! 
 
-### When I'm not coding, find me solving the NYT Wordle or listening to Bad Bunny. I'm also a big horror movie fan, some of my favorites are (in no specific order): Hereditary, Scream, Halloween, Nightmare on Elm Street, It follows, Under The Shadow & Train to Busan.
+### When I'm not coding, find me playing with my dog, solving the NYT Wordle or listening to Bad Bunny. I'm also a big horror movie fan, some of my favorites are (in no specific order): Hereditary, Scream, Halloween, Nightmare on Elm Street, It follows, Under The Shadow & Train to Busan.
 
 <hr>
 
