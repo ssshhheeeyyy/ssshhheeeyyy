@@ -1,27 +1,23 @@
-## Hi! I am Sheyla De los Santos 👋
+<img src='./images/github-profile-sheyladelossantos.png' alt='Hi! 👋  I am Sheyla De los Santos 🙃. As a Software Engineer, I take pride in developing applications that are not only functional, but also visually appealing and user-friendly.'/>
 
-I am a Software Engineer and I love creating beautiful and clean web applications. 
+## Reach me at:
 
+- [LinkedIn](https://www.linkedin.com/in/sheyladelossantos/) 🙃
+- [Email](mailto:sheyla@sheyladelossantos.net) ✨
 
-- 🔭 I’m currently working on a Next.js app. 
-- 🌱 I'm also currently learning Python. 
-- 👩‍💻 My main projects live [here](https://sheyladelossantos.onrender.com/), check them out! 
-- 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/sheyladelossantos/)!
+## 👉 Currently working on:
 
-Excited to hear from you! [Email](mailto:delossantosshey@gmail.com) me to collaborate or just to say hi! ✨
- 
-<!--
-**ssshhheeeyyy/ssshhheeeyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- A mental health support app for people in the trying to conceive journey 💫
+- Practicing my Data Structures knowledge on LeetCode and AlgoExpert ⚡️
 
-Here are some ideas to get you started:
+## 📚 I'm also learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python and TypeScript 👩‍💻
 
+## Take a look at my projects!
+
+- 👩‍💻 I built myself a portfolio [website](https://sheyladelossantos.net/), check it out!
+
+## GitHub Stats 👇
+
+[![Sheyla's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssshhheeeyyy&count_private=true&show_icons=true&bg_color=DEG,ffff,000000&title_color=bf19ce&text_color=b731cb&icon_color=000000&line_height=30&hide_border=true&border_radius=0&include_all_commits=true&hide_title=true&align='center')](https://github.com/anuraghazra/github-readme-stats)
