@@ -2,9 +2,15 @@
 
 ### I'm a Software Engineer who takes pride in developing applications that are not only functional, but also visually appealing and user-friendly.
 
+### I’m passionate about sustainability, mental health awareness, minority representation, and, of course, coding! Currently, I’m seeking a Junior Software Developer role. If you know of any opportunities or want to hire me, I would be thrilled to [hear](mailto:sheyla@sheyladelossantos.net) from you! 
+
+### When I'm not coding, find me solving the NYT Wordle or listening to Bad Bunny. I'm also a big horror movie fan, some of my favorites are (in no specific order): Hereditary, Scream, Halloween, Nightmare on Elm Street, It follows, Under The Shadow & Train to Busan.
+
+<hr>
+
 ### LANGUAGES:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript?&logo=JavaScript&color=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 ##### LEARNING:
 
@@ -14,8 +20,8 @@
 ### TECHNOLOGIES:
 
 ![Node](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Express](https://img.shields.io/badge/-Express?&logo=Express&color=black)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL?&logo=PostgreSQL&color=black)
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![React](https://img.shields.io/badge/-React.js-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Three.js](https://img.shields.io/badge/-Three.js-000?&logo=three.js)
@@ -27,7 +33,7 @@
 
 ### LET'S CONNECT!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn?&logo=linkedin&color=black)](https://www.linkedin.com/in/sheyladelossantos/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&color=black)](https://www.linkedin.com/in/sheyladelossantos/)
 [![Email](https://img.shields.io/badge/-Email-000?)](mailto:sheyla@sheyladelossantos.net)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?)](https://sheyladelossantos.net/)
 
