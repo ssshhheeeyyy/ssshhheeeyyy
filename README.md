@@ -26,6 +26,12 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Three.js](https://img.shields.io/badge/-Three.js-000?&logo=three.js)
 
+
+### PORTFOLIO: 
+
+[![Portfolio](https://img.shields.io/badge/-sheyladelossantos.net-000?)](https://sheyladelossantos.net/)
+
+
 ### CURRENTLY WORKING ON:
 
 - A mental health support app for people in the trying to conceive journey.
@@ -35,6 +41,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&color=black)](https://www.linkedin.com/in/sheyladelossantos/)
 [![Email](https://img.shields.io/badge/-Email-000?)](mailto:sheyla@sheyladelossantos.net)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?)](https://sheyladelossantos.net/)
+
 
 [![Sheyla's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssshhheeeyyy&count_private=true&show_icons=true&bg_color=DEG,ffff,000000&title_color=bf19ce&text_color=b731cb&icon_color=000000&line_height=30&hide_border=true&border_radius=0&include_all_commits=true&hide_title=true&align='center')](https://github.com/anuraghazra/github-readme-stats)
