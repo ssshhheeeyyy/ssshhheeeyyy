@@ -1,10 +1,10 @@
-![Welcome! I'm Sheyla De los Santos(She/Her)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRhZTRkNjE3MmI2ZWVkMjU0ZGJjOWQwZDk0YzExMjI5YzJjMGQxYiZjdD1n/JnKilQF92IOCIszJLF/giphy.gif)
+![Welcome! I'm Sheyla De los Santos(She/Her)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmYyNWNiNTEzNzA4YWNkOGQ2NjFmYTdmMDY2ZTM1NzYwZDk3ZjYyMyZjdD1n/DkrFIUzPHG2AT4y7FF/giphy.gif)
 
-### I'm a Software Engineer who takes pride in developing applications that are not only functional, but also visually appealing and user-friendly.
+### As a Software Engineer, I take pride in developing applications that are not only functional, but also visually appealing and user-friendly.
 
 ### I’m passionate about nature, sustainability, mental health awareness, minority representation, and, of course, coding! Currently, I’m seeking a Junior Software Developer role. If you know of any opportunities or want to hire me, I would be thrilled to [hear](mailto:sheyla@sheyladelossantos.net) from you! 
 
-### When I'm not coding, find me playing with my dog, solving the NYT Wordle or listening to Bad Bunny. I'm also a big horror movie fan, some of my favorites are (in no specific order): Hereditary, Scream, Halloween, Nightmare on Elm Street, It follows, Under The Shadow & Train to Busan.
+### When I'm not coding, find me playing with my dog, solving the NYT Wordle or listening to Bad Bunny. I'm also a big horror movie fan, some of my favorites are (in no specific order): Hereditary, Scream, Halloween, Nightmare on Elm Street, It follows, Under The Shadow, The Exorcist & Train to Busan.
 
 <hr>
 
@@ -30,6 +30,7 @@
 ![Three.js](https://img.shields.io/badge/-Three.js-000?&logo=three.js)
 
 ### TOOLS: 
+
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=webpack)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
@@ -37,11 +38,10 @@
 
 [![Portfolio](https://img.shields.io/badge/-sheyladelossantos.net-000?)](https://sheyladelossantos.net/)
 
-
 ### CURRENTLY WORKING ON:
 
-- A mental health support app for people in the trying to conceive journey.
-- Practicing my Data Structures knowledge on LeetCode and AlgoExpert.
+- A mental health support app for people trying to conceive. This is a web application built with Next.
+- Practicing my data structures knowledge on LeetCode and AlgoExpert.
 
 ### LET'S CONNECT!
 
