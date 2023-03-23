@@ -1,4 +1,4 @@
-![Welcome! I'm Sheyla De los Santos(She/Her)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmYyNWNiNTEzNzA4YWNkOGQ2NjFmYTdmMDY2ZTM1NzYwZDk3ZjYyMyZjdD1n/DkrFIUzPHG2AT4y7FF/giphy.gif)
+![Welcome! I'm Sheyla De los Santos. Software Engineer](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmYyNWNiNTEzNzA4YWNkOGQ2NjFmYTdmMDY2ZTM1NzYwZDk3ZjYyMyZjdD1n/DkrFIUzPHG2AT4y7FF/giphy.gif)
 
 ### As a Software Engineer, I take pride in developing applications that are not only functional, but also visually appealing and user-friendly.
 
@@ -50,4 +50,4 @@
 [![Email](https://img.shields.io/badge/-Email-000?)](mailto:sheyla@sheyladelossantos.net)
 
 
-[![Sheyla's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssshhheeeyyy&count_private=true&show_icons=true&bg_color=DEG,ffff,000000&title_color=bf19ce&text_color=b731cb&icon_color=000000&line_height=30&hide_border=true&border_radius=0&include_all_commits=true&hide_title=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Sheyla's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssshhheeeyyy&count_private=true&show_icons=true&bg_color=DEG,ffff,000000&title_color=bf19ce&text_color=b731cb&icon_color=000000&line_height=30&hide_border=true&border_radius=0&include_all_commits=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
