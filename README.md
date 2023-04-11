@@ -41,7 +41,7 @@
 
 ### CURRENTLY WORKING ON:
 
-- A mental health support app for people trying to conceive. This is a web application built with Next.
+- Working on a React Native app that will allow the user to post and/or find stoop sales near them. 
 - Practicing my data structures knowledge on LeetCode and AlgoExpert.
 
 ### LET'S CONNECT!
