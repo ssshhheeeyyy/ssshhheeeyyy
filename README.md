@@ -42,6 +42,7 @@
 ### CURRENTLY WORKING ON:
 
 - Working on a React Native app that will allow the user to post and/or find stoop sales near them. 
+- Contributing to Open Source projects. 
 - Practicing my data structures knowledge on LeetCode and AlgoExpert.
 
 ### LET'S CONNECT!
