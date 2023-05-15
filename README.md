@@ -41,7 +41,7 @@
 
 ### CURRENTLY WORKING ON:
 
-- ![Earth+](https://earthplus.onrender.com/)
+- [Earth+](https://earthplus.onrender.com/)
 - A React Native app that will allow the user to post and/or find stoop sales near them. 
 - Practicing my data structures knowledge on LeetCode and AlgoExpert.
 
