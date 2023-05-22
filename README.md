@@ -14,11 +14,6 @@
 ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
 
-##### LEARNING:
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-
 ### TECHNOLOGIES:
 
 ![Node](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
